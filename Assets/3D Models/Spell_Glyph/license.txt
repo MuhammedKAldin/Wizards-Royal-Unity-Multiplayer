@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spell Glyph
+* source:	https://sketchfab.com/3d-models/spell-glyph-e0c03de591f64dee937a68e6432abe1e
+* author:	amdragg (https://sketchfab.com/amdragg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spell Glyph" (https://sketchfab.com/3d-models/spell-glyph-e0c03de591f64dee937a68e6432abe1e) by amdragg (https://sketchfab.com/amdragg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
