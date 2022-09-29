@@ -1,4 +1,5 @@
 <h2> How To Play </h2>
+
 # Controls :
 * Mosue Wheel Up/Down ► Switch your Magic Staff.
 * Mouse-L Click ► Use current Staff Special attack.
