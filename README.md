@@ -1,5 +1,4 @@
-# Welcome to Wizards Royal </br>
-# This a short Introduction on How to Play
+# Welcome to Wizards Royal, This a short Introduction on How to Play
 
 <hr>
 
