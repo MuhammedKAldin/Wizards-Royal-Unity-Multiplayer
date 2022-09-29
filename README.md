@@ -1,4 +1,6 @@
-# How To Play
+# Welcome to Wizards Royal </br>
+# This a short Introduction on How to Play
+
 <hr>
 
 <h2> Controls : </h2>
