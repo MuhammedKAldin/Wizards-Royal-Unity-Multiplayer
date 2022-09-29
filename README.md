@@ -1,6 +1,8 @@
 # Welcome to Wizards Royal </br>
 # This a short Introduction on How to Play
 
+<hr>
+
 <h2> Controls : </h2>
 - Mosue Wheel Up/Down ► Switch your Magic Staff. </br>
 - Mouse-L Click ► Use current Staff Special attack. </br>
