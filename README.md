@@ -1,4 +1,5 @@
 <h2> How To Play </h2>
+<hr>
 
 # Controls :
 * Mosue Wheel Up/Down ► Switch your Magic Staff.
