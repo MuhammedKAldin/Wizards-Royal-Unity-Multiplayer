@@ -1,0 +1,2426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>ee42f1964a0e8224c90be81905946699</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1ff9d8296ed1f02419bf4f417ff2265e</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:07+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0181db608628b494d8ae50728e507ce1</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:11:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>711aad28b4057bd4783120e26ff2ee25</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6036af5730313e54699c5a693891fe90</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:24+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bf34fbe7a6e71634493d770ed0031f9d</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2bb09c3bc24a82648a2e4fc008a28d8b</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:11+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f7c779802a73d5448e38af7c39fbaa5</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:16+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3226d9f88577be74197693bd17cff8c3</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>620aee1bd928b2a4981896c6b4e1bf0d</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:25+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>04e6f1d86089cda409e925cd975436d9</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:11:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c5da6ce9225f948438f7d6a072499ecd</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e44b92e217bfdf24d99acb4344918eeb</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ce16cd7e31794b48b2843381cd87d31</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ad60cb17f7694c43a8190c617281753</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:32+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>247be52eadac5044e9f8b7b4d8d0ada9</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:08+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c88d2a04cc828c044b0fcc133fd481e6</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1186b8795dc3fc84e8ec53bd314d8e91</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:03+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2a15a1e455bcc7543872f50762449739</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs</fileName>
+    <timeStamp>2017-11-30T21:12:10+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1123a444101eb774ba7490990b50736a</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:02+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0eb9f23cde3a1734da334cfa0831dd25</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:11:59+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eb8e037cb3f873743a725427c8c22342</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d4a408a1b506d0046875061c677944d8</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f34e35dc1dc67c54c841b728548d69cc</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>211d719bb25901043833928f50e9d0ea</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:08+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a63f9f2267c36684e855add13ad5499f</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>54b24e51e2a9fa242b38d80ee11f3b2d</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs</fileName>
+    <timeStamp>2017-11-30T21:12:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4a9c464b0191f7d4da1d129d97d8240b</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:21+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ed3efd28525441947b55ec9b5d68ba31</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e54b95371574a3144b851b0ca93ceb39</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/PropertyDrawers/GetSetDrawer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:46+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2449eb616c871d044adce04ac98030a6</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:08+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d5b46a4a3526d14080bfc4bb247664c</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/PropertyDrawers/MinDrawer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15ef94834d9e4aa44ac8fe619843346b</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Utility/BaseEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:04+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d30409ab90458e5409807c8b0274ac9c</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Utility/EmbeddedAssetHelpers.cs</fileName>
+    <timeStamp>2017-11-30T21:12:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24ec24775a1b45e4ea81ac13002dee32</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Utility/SaveDuringPlay.cs</fileName>
+    <timeStamp>2017-11-30T21:12:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba59c38a116ff2f4fb69f825ba0da3bc</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Utility/ScriptableObjectUtility.cs</fileName>
+    <timeStamp>2017-11-30T21:12:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a60d9407e2bb20e4ea00281b1e33eae7</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Utility/SerializedPropertyHelper.cs</fileName>
+    <timeStamp>2017-11-30T21:12:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>829e606f890b35c47aa29643517add2e</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Windows/AboutWindow.cs</fileName>
+    <timeStamp>2017-11-30T21:12:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aceb1a3f85f55c249bba6eaade29f2aa</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs</fileName>
+    <timeStamp>2017-11-30T21:12:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74d8c4d6e5d0338469ae46c13725f3ce</guid>
+    <fileName>Assets/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs</fileName>
+    <timeStamp>2017-11-30T21:12:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>53258ad9ad6e71e48bb8643c9522112e</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs</fileName>
+    <timeStamp>2017-11-30T21:12:21+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineBlendListCamera</string>
+      <string>Cinemachine.CinemachineBlendListCamera+Instruction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>72ece51f2901e7445ab60da3685d6b5f</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs</fileName>
+    <timeStamp>2017-11-30T21:12:30+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineBrain</string>
+      <string>Cinemachine.CinemachineBrain+UpdateMethod</string>
+      <string>Cinemachine.CinemachineBrain+BrainEvent</string>
+      <string>Cinemachine.CinemachineBrain+VcamEvent</string>
+      <string>Cinemachine.StaticPointVirtualCamera</string>
+      <string>Cinemachine.BlendSourceVirtualCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d62f748f5292bb343be9e6b0c84416d9</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs</fileName>
+    <timeStamp>2017-11-30T21:12:44+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineClearShot</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e501d18bb52cf8c40b1853ca4904654f</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs</fileName>
+    <timeStamp>2017-11-30T21:12:46+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineCollider</string>
+      <string>Cinemachine.CinemachineCollider+ResolutionStrategy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2fba25a5cd15594e8f050a11e386c80</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs</fileName>
+    <timeStamp>2017-11-30T21:12:37+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineConfiner</string>
+      <string>Cinemachine.CinemachineConfiner+Mode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>99a9c787e5d1bbf48a389834c4a9641c</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs</fileName>
+    <timeStamp>2017-11-30T21:12:34+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineDollyCart</string>
+      <string>Cinemachine.CinemachineDollyCart+UpdateMethod</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57744762d9079934292f57896d8193e0</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs</fileName>
+    <timeStamp>2017-11-30T21:12:23+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineExternalCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4700f9f03ad19f94baf0367cb7a9c988</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs</fileName>
+    <timeStamp>2017-11-30T21:12:20+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineFollowZoom</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>319d2fe34a804e245819465c9505ea59</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs</fileName>
+    <timeStamp>2017-11-30T21:12:12+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineFreeLook</string>
+      <string>Cinemachine.CinemachineFreeLook+Orbit</string>
+      <string>Cinemachine.CinemachineFreeLook+CreateRigDelegate</string>
+      <string>Cinemachine.CinemachineFreeLook+DestroyRigDelegate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c26251a3e1f5ac41afa5ffb404c5f71</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs</fileName>
+    <timeStamp>2017-11-30T21:12:27+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineMixingCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d37e5385efd7064cb1d54c94960acae</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs</fileName>
+    <timeStamp>2017-11-30T21:12:11+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachinePath</string>
+      <string>Cinemachine.CinemachinePath+Waypoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac0b09e7857660247b1477e93731de29</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs</fileName>
+    <timeStamp>2017-11-30T21:12:39+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachinePipeline</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f497b01325ac7a041bd6e365a9ea0e93</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs</fileName>
+    <timeStamp>2017-11-30T21:12:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a200b19ca1a9685429ed7e043c28e904</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs</fileName>
+    <timeStamp>2017-11-30T21:12:36+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineSmoothPath</string>
+      <string>Cinemachine.CinemachineSmoothPath+Waypoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>325a6a3050a061e4b8aa51386c30e8e1</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs</fileName>
+    <timeStamp>2017-11-30T21:12:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineStateDrivenCamera</string>
+      <string>Cinemachine.CinemachineStateDrivenCamera+Instruction</string>
+      <string>Cinemachine.CinemachineStateDrivenCamera+ParentHash</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e5eb80d8e62d9d145bb50fb783c0f731</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs</fileName>
+    <timeStamp>2017-11-30T21:12:46+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineTargetGroup</string>
+      <string>Cinemachine.CinemachineTargetGroup+Target</string>
+      <string>Cinemachine.CinemachineTargetGroup+PositionMode</string>
+      <string>Cinemachine.CinemachineTargetGroup+RotationMode</string>
+      <string>Cinemachine.CinemachineTargetGroup+UpdateMethod</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45e653bab7fb20e499bda25e1b646fea</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs</fileName>
+    <timeStamp>2017-11-30T21:12:19+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineVirtualCamera</string>
+      <string>Cinemachine.CinemachineVirtualCamera+CreatePipelineDelegate</string>
+      <string>Cinemachine.CinemachineVirtualCamera+DestroyPipelineDelegate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>68bb026fafb42b14791938953eaace77</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs</fileName>
+    <timeStamp>2017-11-30T21:12:26+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineBasicMultiChannelPerlin</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f4044717213e31446939f7bd49c896ea</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:49+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineComposer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6ad980451443d70438faac0bc6c235a0</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:27+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineFramingTransposer</string>
+      <string>Cinemachine.CinemachineFramingTransposer+FramingMode</string>
+      <string>Cinemachine.CinemachineFramingTransposer+AdjustmentMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0f7633c93f0364a418841eeb8b058634</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineGroupComposer</string>
+      <string>Cinemachine.CinemachineGroupComposer+FramingMode</string>
+      <string>Cinemachine.CinemachineGroupComposer+AdjustmentMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>36d1163fa822e8b418a0a603ec078d5c</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs</fileName>
+    <timeStamp>2017-11-30T21:12:14+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineHardLockToTarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e8b78ac948f05a46a6d8339a503172b</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs</fileName>
+    <timeStamp>2017-11-30T21:12:05+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineHardLookAt</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9384ab8608cdc3d479fe89cd51eed48f</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:33+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineOrbitalTransposer</string>
+      <string>Cinemachine.CinemachineOrbitalTransposer+Heading</string>
+      <string>Cinemachine.CinemachineOrbitalTransposer+Recentering</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3c9beda531928fc40968802117a5d256</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs</fileName>
+    <timeStamp>2017-11-30T21:12:15+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachinePOV</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4c41ac9245b87c4192012080077d830</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs</fileName>
+    <timeStamp>2017-11-30T21:12:37+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineSameAsFollowObject</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>418e42c7d0405cc48a7b83f63ea53bb3</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs</fileName>
+    <timeStamp>2017-11-30T21:12:17+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineTrackedDolly</string>
+      <string>Cinemachine.CinemachineTrackedDolly+CameraUpMode</string>
+      <string>Cinemachine.CinemachineTrackedDolly+AutoDolly</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa7155796051b734daa718462081dc5f</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:52+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineTransposer</string>
+      <string>Cinemachine.CinemachineTransposer+BindingMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>557c6f70a7173744abaa3967b6da6f5d</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/AxisState.cs</fileName>
+    <timeStamp>2017-11-30T21:12:23+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.AxisState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2a918f460a69394eb9726b31e1d404c</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CameraState.cs</fileName>
+    <timeStamp>2017-11-30T21:12:41+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CameraState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3fed8968b96eb924891cf86f5c51f661</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs</fileName>
+    <timeStamp>2017-11-30T21:12:16+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineBlend</string>
+      <string>Cinemachine.CinemachineBlendDefinition</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>36baaa8bdcb9d8b49b9199833965d2c3</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs</fileName>
+    <timeStamp>2017-11-30T21:12:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineBlenderSettings</string>
+      <string>Cinemachine.CinemachineBlenderSettings+CustomBlend</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2f73bdc979030e419f33c10913639cc</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs</fileName>
+    <timeStamp>2017-11-30T21:12:40+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineComponentBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7d73314dfe49f8458398c6dc8edcda8</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachineCore.cs</fileName>
+    <timeStamp>2017-11-30T21:12:42+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineCore</string>
+      <string>Cinemachine.CinemachineCore+Stage</string>
+      <string>Cinemachine.CinemachineCore+AxisInputDelegate</string>
+      <string>Cinemachine.CinemachineCore+UpdateFilter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>10e6f8c815d3c4d45b1d98b951d53912</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs</fileName>
+    <timeStamp>2017-11-30T21:12:02+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Utility.CinemachineGameWindowDebug</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4fa53a91a43ae1a4bbf6b29961b45c38</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs</fileName>
+    <timeStamp>2017-11-30T21:12:21+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineExtension</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a73149a4b6c41d741bc5e4e3b7711c0d</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs</fileName>
+    <timeStamp>2017-11-30T21:12:38+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachinePathBase</string>
+      <string>Cinemachine.CinemachinePathBase+Appearance</string>
+      <string>Cinemachine.CinemachinePathBase+PositionUnits</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c760cb7073c57e44959f36cbed8ed39</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs</fileName>
+    <timeStamp>2017-11-30T21:12:11+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.LensSettingsPropertyAttribute</string>
+      <string>Cinemachine.CinemachineBlendDefinitionPropertyAttribute</string>
+      <string>Cinemachine.SaveDuringPlayAttribute</string>
+      <string>Cinemachine.NoSaveDuringPlayAttribute</string>
+      <string>Cinemachine.TagFieldAttribute</string>
+      <string>Cinemachine.DocumentationSortingAttribute</string>
+      <string>Cinemachine.DocumentationSortingAttribute+Level</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15ebf04de67923d41a36c21e1fc63718</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs</fileName>
+    <timeStamp>2017-11-30T21:12:03+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineVirtualCameraBase</string>
+      <string>Cinemachine.CinemachineVirtualCameraBase+OnPostPipelineStageDelegate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>68839a4bf8790cd449d4043f5efb5aec</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/GaussianFilter.cs</fileName>
+    <timeStamp>2017-11-30T21:12:25+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Utility.GaussianWindow1d`1</string>
+      <string>Cinemachine.Utility.GaussianWindow1D_Vector3</string>
+      <string>Cinemachine.Utility.GaussianWindow1D_Quaternion</string>
+      <string>Cinemachine.Utility.GaussianWindow1D_CameraRotation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2643ac9881a89594a80c242b565b34ec</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs</fileName>
+    <timeStamp>2017-11-30T21:12:09+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.ICinemachineCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a53087ba28aaf145a184ea363108831</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs</fileName>
+    <timeStamp>2017-11-30T21:12:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5778d22ca832d9f47b5e73a8c5fe78a2</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/LensSettings.cs</fileName>
+    <timeStamp>2017-11-30T21:12:23+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.LensSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b7f59e54f2bfd184b9dd451a678d089b</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/NoiseSettings.cs</fileName>
+    <timeStamp>2017-11-30T21:12:40+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.NoiseSettings</string>
+      <string>Cinemachine.NoiseSettings+NoiseParams</string>
+      <string>Cinemachine.NoiseSettings+TransformNoiseParams</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6cef82e891a45884fb2b70604b0f8c29</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/Predictor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:28+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Utility.PositionPredictor</string>
+      <string>Cinemachine.Utility.Damper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8986fa27e90db314d8a3359520e7fd1a</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/ReflectionHelpers.cs</fileName>
+    <timeStamp>2017-11-30T21:12:32+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Utility.ReflectionHelpers</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fca2bf25139920d4f9bf86711457992e</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/SplineHelpers.cs</fileName>
+    <timeStamp>2017-11-30T21:12:52+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Utility.SplineHelpers</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6a0472cd31396f741969b8c1af8dd5a0</guid>
+    <fileName>Assets/Cinemachine/Base/Runtime/Core/UnityVectorExtensions.cs</fileName>
+    <timeStamp>2017-11-30T21:12:27+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Utility.UnityVectorExtensions</string>
+      <string>Cinemachine.Utility.UnityQuaternionExtensions</string>
+      <string>Cinemachine.Utility.UnityRectExtensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>360979aafebd332448626a2236bafdb4</guid>
+    <fileName>Assets/Cinemachine/PostFX/CinemachinePostFX.cs</fileName>
+    <timeStamp>2017-11-30T21:12:13+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>729aad4491e915a41bda2b8325cf757a</guid>
+    <fileName>Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs</fileName>
+    <timeStamp>2017-11-30T21:12:30+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.PostFX.CinemachinePostProcessing</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dec69862942cc9744ade63216979cafd</guid>
+    <fileName>Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f6542fc5402b30a4482cd20a3621602b</guid>
+    <fileName>Assets/Cinemachine/PostFX/Editor/PostFXAutoImport.cs</fileName>
+    <timeStamp>2017-11-30T21:12:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>961772e8b1d75dd4a915fb8a236d5a8a</guid>
+    <fileName>Assets/Cinemachine/Timeline/CinemachineMixer.cs</fileName>
+    <timeStamp>2017-11-30T21:12:34+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Timeline.CinemachineMixer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>90fb794a295e73545af71bcdb7375791</guid>
+    <fileName>Assets/Cinemachine/Timeline/CinemachineShot.cs</fileName>
+    <timeStamp>2017-11-30T21:12:33+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Timeline.CinemachineShotPlayable</string>
+      <string>Cinemachine.Timeline.CinemachineShot</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>05acc715f855ced458d76ee6f8ac6c61</guid>
+    <fileName>Assets/Cinemachine/Timeline/CinemachineTrack.cs</fileName>
+    <timeStamp>2017-11-30T21:11:59+02:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.Timeline.CinemachineTrack</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f24a4388d07ef494e8516cb859803e09</guid>
+    <fileName>Assets/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs</fileName>
+    <timeStamp>2017-11-30T21:12:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>585901dad4c09564db67dc1e08787f0e</guid>
+    <fileName>Assets/ParticlesEffectPack/Misc Effects/Scripts/SpawnEffect.cs</fileName>
+    <timeStamp>2020-07-20T15:44:17+02:00</timeStamp>
+    <typeFullName>
+      <string>SpawnEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c1aa0fceaa2bc14eabdf85976f4e2c8</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChannelCreationOptions.cs</fileName>
+    <timeStamp>2022-08-02T17:43:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5eb508ffb7b7b0f47882f0087a668283</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChannelWellKnownProperties.cs</fileName>
+    <timeStamp>2022-08-02T17:43:13+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87776a9b1f405644abcc38ecd70c37fb</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatAppSettings.cs</fileName>
+    <timeStamp>2022-08-02T17:43:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35b2a4878e5e99e438c97fbe8dbbd863</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatChannel.cs</fileName>
+    <timeStamp>2022-08-02T17:42:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>692e391fa2a297c45b3d530aa85be610</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatClient.cs</fileName>
+    <timeStamp>2022-08-02T17:43:19+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b90b85043f1857f43b94fd00edfc1ef1</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatDisconnectCause.cs</fileName>
+    <timeStamp>2022-08-02T17:44:06+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>188e4a680bce12d4cbad8d57a24f7d44</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatEventCode.cs</fileName>
+    <timeStamp>2022-08-02T17:42:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c90a2a73f3ce648409739c724d3e6cef</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatOperationCode.cs</fileName>
+    <timeStamp>2022-08-02T17:44:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d7a17b60c85fb30448492e397c58c7ce</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatParameterCode.cs</fileName>
+    <timeStamp>2022-08-02T17:44:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f712805dec728943a668b3bf19dc422</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatPeer.cs</fileName>
+    <timeStamp>2022-08-02T17:42:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f482d8c4fe7ade4cbb08eb4a2d83b39</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatState.cs</fileName>
+    <timeStamp>2022-08-02T17:43:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7db67e7f5face2e42b6daafcaf4e6c82</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatUserStatus.cs</fileName>
+    <timeStamp>2022-08-02T17:43:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bab7c8053b486e34aa0d4ca99dcbec80</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/IChatClientListener.cs</fileName>
+    <timeStamp>2022-08-02T17:44:07+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bd5ff9965d0784cad8e07f5eb9cb9c06</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/Common/EventSystemSpawner.cs</fileName>
+    <timeStamp>2022-08-02T17:44:08+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.UtilityScripts.EventSystemSpawner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0b1cdd4de66f84fa1af4cb197e5d901d</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/Common/OnStartDelete.cs</fileName>
+    <timeStamp>2022-08-02T17:42:27+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.UtilityScripts.OnStartDelete</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>060fe8295761a47268586d33ef5673e0</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/Common/TextButtonTransition.cs</fileName>
+    <timeStamp>2022-08-02T17:42:24+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.UtilityScripts.TextButtonTransition</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e808171e8963498bb1db072a977d750</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/Common/TextToggleIsOnTransition.cs</fileName>
+    <timeStamp>2022-08-02T17:42:38+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.UtilityScripts.TextToggleIsOnTransition</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4fcf4818ecc9abf4e9b7e0c37af9b851</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/DemoChat/AppSettingsExtensions.cs</fileName>
+    <timeStamp>2022-08-02T17:43:06+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.Demo.AppSettingsExtensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48caa72710147fc4f9389b0b5ec6137d</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/DemoChat/ChannelSelector.cs</fileName>
+    <timeStamp>2022-08-02T17:43:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.Demo.ChannelSelector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4eb1284704a754507acb17b07b888086</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/DemoChat/ChatAppIdCheckerUI.cs</fileName>
+    <timeStamp>2022-08-02T17:43:05+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.Demo.ChatAppIdCheckerUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02d148d0890b2d44dbdf7f1c1b39a499</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/DemoChat/ChatGui.cs</fileName>
+    <timeStamp>2022-08-02T17:42:23+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.Demo.ChatGui</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>660b16ba396d0465b98be14947420288</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/DemoChat/FriendItem.cs</fileName>
+    <timeStamp>2022-08-02T17:43:16+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.Demo.FriendItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ba4c747f6975ea46bcc0a55ffe3bfe8</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/DemoChat/IgnoreUiRaycastWhenInactive.cs</fileName>
+    <timeStamp>2022-08-02T17:43:03+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.Demo.IgnoreUiRaycastWhenInactive</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>696a5174ff5e707479b3540eb56d14b7</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/DemoChat/NamePickGui.cs</fileName>
+    <timeStamp>2022-08-02T17:43:19+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Chat.Demo.NamePickGui</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ef7cc863c103cf44930b0411a10ad1f</guid>
+    <fileName>Assets/Photon/PhotonChat/Demos/DemoChat/Editor/ChatEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:42:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ac953d6a57a9ea94e96ec689598995d5</guid>
+    <fileName>Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs</fileName>
+    <timeStamp>2022-08-02T17:43:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b1bad04f7805f764dba77f0d4518e0f0</guid>
+    <fileName>Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs</fileName>
+    <timeStamp>2022-08-02T17:44:01+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>272beb7315eb9fc4daecafe2ff373baf</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/AppSettings.cs</fileName>
+    <timeStamp>2022-08-02T17:42:43+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f0b3ce6748186d3468e0dbaecb38b04c</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/ConnectionHandler.cs</fileName>
+    <timeStamp>2022-08-02T17:44:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c41ee868d8540674982e160cf16e0775</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/CustomTypesUnity.cs</fileName>
+    <timeStamp>2022-08-02T17:44:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c0464991e33a70498abdd85c150cc59</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Extensions.cs</fileName>
+    <timeStamp>2022-08-02T17:42:53+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>94ba1138c322ea04c8c37cfbcf87f468</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/FriendInfo.cs</fileName>
+    <timeStamp>2022-08-02T17:43:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4e65968c7102bf42a77b6a5cade8743</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/LoadBalancingClient.cs</fileName>
+    <timeStamp>2022-08-02T17:44:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35c989013c977244186e524a4c90dcee</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/LoadbalancingPeer.cs</fileName>
+    <timeStamp>2022-08-02T17:42:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a2f6055139b44142954461627d344bc</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/PhotonPing.cs</fileName>
+    <timeStamp>2022-08-02T17:43:11+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d93148764d7961d4a8b8112bd166cf35</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/PhotonPingClasses.cs</fileName>
+    <timeStamp>2022-08-02T17:44:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e3e4b5bebc687044b9c6c2803c36be3d</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Player.cs</fileName>
+    <timeStamp>2022-08-02T17:44:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bddf4f4bde2f8dd46927411229ce1302</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Region.cs</fileName>
+    <timeStamp>2022-08-02T17:44:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>207807222df026f40ac3688a3a051e38</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/RegionHandler.cs</fileName>
+    <timeStamp>2022-08-02T17:42:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>17568a7a5552c09428dd48e73548b8b8</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Room.cs</fileName>
+    <timeStamp>2022-08-02T17:42:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>71760b65ad7d5b842942c797a0366fa7</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/RoomInfo.cs</fileName>
+    <timeStamp>2022-08-02T17:43:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b61c60d38639484ebbd7f2100dd3d08</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/SupportLogger.cs</fileName>
+    <timeStamp>2022-08-02T17:43:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>294b0a24f6c841f48acf4bf696a4d764</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/WebRpc.cs</fileName>
+    <timeStamp>2022-08-02T17:42:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a389b614f52fbf347a1533dbbf245033</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Unity/PhotonAppSettings.cs</fileName>
+    <timeStamp>2022-08-02T17:43:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>166dfe22956ef0341b28e18d0499e363</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Unity/Editor/AccountService.cs</fileName>
+    <timeStamp>2022-08-02T17:42:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>607340ca505d53d4f8e785423fac7964</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Unity/Editor/PhotonEditorUtils.cs</fileName>
+    <timeStamp>2022-08-02T17:43:13+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>72e8756202d0dfc488140c228938043b</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs</fileName>
+    <timeStamp>2022-08-02T17:43:28+02:00</timeStamp>
+    <typeFullName>
+      <string>Photon.Realtime.Demo.ConnectAndJoinRandomLb</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab517bd36a2b2504b83979fcad45d4a2</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/CustomTypes.cs</fileName>
+    <timeStamp>2022-08-02T17:43:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7962bbdaba2a4940b1341d755abd40d</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Enums.cs</fileName>
+    <timeStamp>2022-08-02T17:44:04+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>177bddf229f8d8445a70c0652f03b7df</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/PhotonHandler.cs</fileName>
+    <timeStamp>2022-08-02T17:42:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>88e11b3353de7e94d84b1ec5adbdd15e</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs</fileName>
+    <timeStamp>2022-08-02T17:43:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cbf2b3734a024f842bd50f8738feb400</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/PhotonNetworkPart.cs</fileName>
+    <timeStamp>2022-08-02T17:44:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>006991e32d9020c4d896f161318a2bc0</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/PhotonStreamQueue.cs</fileName>
+    <timeStamp>2022-08-02T17:42:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aa584fbee541324448dd18d8409c7a41</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs</fileName>
+    <timeStamp>2022-08-02T17:43:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f40f16a0227e5c14293e269c875c0f9b</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/PunClasses.cs</fileName>
+    <timeStamp>2022-08-02T17:44:46+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9f3758f8f58fdef43803eb9be1df0608</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/ServerSettings.cs</fileName>
+    <timeStamp>2022-08-02T17:43:52+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dabbbed2a74eac44dac281f20d706ba8</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:44:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3d2cadb1ccf05074e8ce96b1393846cf</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonGUI.cs</fileName>
+    <timeStamp>2022-08-02T17:42:53+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>57b538e62a0ca6248bfd354def935e57</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonViewHandler.cs</fileName>
+    <timeStamp>2022-08-02T17:43:10+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e73a30c46df19194f873ea7a9ce12753</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonViewInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:44:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fc3284eace5a64d4bb516df7d7effdb9</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/PunSceneSettings.cs</fileName>
+    <timeStamp>2022-08-02T17:44:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1ad59deacfd0848dcb64a51b0a0eb960</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/PunSceneSettingsInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:42:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>21239ba77ac4b534f958e8617ef13ede</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/ServerSettingsInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:42:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>60c609ded101b0a468fb5cf27b31cf27</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/ReordableList/ReorderableListResources.cs</fileName>
+    <timeStamp>2022-08-02T17:43:14+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6da457ee57ad5794782f1f76644536e4</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/Views/MonoBehaviourPunEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:43:24+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a3f61bade114730459f7ad45f5f292c1</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/Views/PhotonAnimatorViewEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:43:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a82e8e86b9eecb40ac3f6ebc949f6ef</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/Views/PhotonRigidbody2DViewEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:42:52+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4bcfebc9a2f1074488adedd1fe84e6c9</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/Views/PhotonRigidbodyViewEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:43:03+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22292ca8ffb574945bedfaf49266672e</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/Views/PhotonTransformViewClassicEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:42:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a8c9ec475ad103b43b901d942ff66e02</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Editor/Views/PhotonTransformViewEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:43:56+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d67b3e094fcbf004da7f8771c17126f3</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Interfaces/IPhotonViewCallbacks.cs</fileName>
+    <timeStamp>2022-08-02T17:44:25+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>421c323e36c065045b2c44e16a184a9a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Interfaces/IPunCallbacks.cs</fileName>
+    <timeStamp>2022-08-02T17:42:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>40bca7ec270007b40a4de315c071f4d3</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Utilities/NestedComponentUtilities.cs</fileName>
+    <timeStamp>2022-08-02T17:42:56+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b8c4a61274f60b4ea5fb4299cfdbf14</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonAnimatorView.cs</fileName>
+    <timeStamp>2022-08-02T17:43:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e7cb724808c322458aa4d15f5035fa9</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonRigidbody2DView.cs</fileName>
+    <timeStamp>2022-08-02T17:42:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>64179f3720bbfe947b7724caa67b7c1d</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonRigidbodyView.cs</fileName>
+    <timeStamp>2022-08-02T17:43:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>627855c7f81362d41938ffe0b1475957</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonTransformView.cs</fileName>
+    <timeStamp>2022-08-02T17:43:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8efc6b1d64977384eb3405357896c656</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonTransformViewClassic.cs</fileName>
+    <timeStamp>2022-08-02T17:43:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e5c26fb35dbf64c4eb0d1f24f1a853e9</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/WebRpcImplementationExample.cs</fileName>
+    <timeStamp>2022-08-02T17:44:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a3a5d301bebde6547b43d377600a3e57</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/AsteroidsGame.cs</fileName>
+    <timeStamp>2022-08-02T17:43:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c852cc8bbc743374083cab6f7df68bb7</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Game/Asteroid.cs</fileName>
+    <timeStamp>2022-08-02T17:44:17+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>86aba39379844aa428b0d3c0a3d92534</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Game/AsteroidsGameManager.cs</fileName>
+    <timeStamp>2022-08-02T17:43:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6321a7d9112988841b7223ac6a925bfc</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Game/Bullet.cs</fileName>
+    <timeStamp>2022-08-02T17:43:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b579f4077cd5953489882224d803b137</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Game/PlayerOverviewPanel.cs</fileName>
+    <timeStamp>2022-08-02T17:44:03+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c565458f43b8ad4469a2ca341c210318</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Game/Spaceship.cs</fileName>
+    <timeStamp>2022-08-02T17:44:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84fd812a67908014cb408f749ca7a55e</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs</fileName>
+    <timeStamp>2022-08-02T17:43:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe0a55ef565e3984f8866c5c91e3c2fd</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyTopPanel.cs</fileName>
+    <timeStamp>2022-08-02T17:44:52+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6b92420fa27b32d43a6a35af7781c5d8</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/PlayerListEntry.cs</fileName>
+    <timeStamp>2022-08-02T17:43:21+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>40b744eae97c5fa47879a477d0f0b667</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/RoomListEntry.cs</fileName>
+    <timeStamp>2022-08-02T17:42:56+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6bafe5c223c99ab44a5f70010efdae47</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoHub/Editor/PunStartup.cs</fileName>
+    <timeStamp>2022-08-02T17:43:21+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ed6ca7d1055974cc7847025558e8a903</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoHub/Scripts/DemoHubManager.cs</fileName>
+    <timeStamp>2022-08-02T17:44:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f877c2f2d403a4d4f975fb1fd64fe7e8</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoHub/Scripts/ToDemoHubButton.cs</fileName>
+    <timeStamp>2022-08-02T17:44:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b205f33043c113489ab36d5b56f7730</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Scripts/Block.cs</fileName>
+    <timeStamp>2022-08-02T17:43:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3fde284a91e7bf14dbf72b084e11736d</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Scripts/Cluster.cs</fileName>
+    <timeStamp>2022-08-02T17:42:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e821c7c24a983d941a2d2c4400ecf9f7</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Scripts/IngameControlPanel.cs</fileName>
+    <timeStamp>2022-08-02T17:44:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>980b260de9546514d80e3d867a591802</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Scripts/Noise.cs</fileName>
+    <timeStamp>2022-08-02T17:43:46+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>11937abc60ef5bc4796d4b3a3d273f83</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Scripts/ProceduralController.cs</fileName>
+    <timeStamp>2022-08-02T17:42:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4190307f26497ca49b67855340776e0a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Scripts/WorldGenerator.cs</fileName>
+    <timeStamp>2022-08-02T17:42:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4fde14656bc40455ba65844c093b79a3</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/PlayerControl.cs</fileName>
+    <timeStamp>2022-08-02T17:43:06+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>54c0aa0c215c64226bdfacbeed74edbb</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/SlotLanes.cs</fileName>
+    <timeStamp>2022-08-02T17:43:08+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fda2ec3ef73274d5886232a03b450769</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/SlotRacerSplashScreen.cs</fileName>
+    <timeStamp>2022-08-02T17:44:52+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2b14b8c3e9cc04a13898e1e50c9f1024</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/Bezier.cs</fileName>
+    <timeStamp>2022-08-02T17:42:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c78ec24cea4e478bb35a5ce401fa7a6</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/BezierControlPointMode.cs</fileName>
+    <timeStamp>2022-08-02T17:42:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7b6b4e22427e4efbb847bd026324e59</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/BezierCurve.cs</fileName>
+    <timeStamp>2022-08-02T17:44:05+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b154883273c2845f39445c8015d81639</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/BezierSpline.cs</fileName>
+    <timeStamp>2022-08-02T17:44:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3886e96ecea4f4f0eb98bb0c41a31fbe</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/Line.cs</fileName>
+    <timeStamp>2022-08-02T17:42:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>92fca85ea3a014374a5c052f9cc2326b</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/SplinePosition.cs</fileName>
+    <timeStamp>2022-08-02T17:43:43+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>541a76f9c03874323b5154b14ac00427</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/SplineWalker.cs</fileName>
+    <timeStamp>2022-08-02T17:43:08+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>28cd1cdefdaf24d6cb98f0cb87845b3a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/Editor/BezierCurveInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:42:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>127eddf8173c549d9976751e82f3face</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/Editor/BezierSplineInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:42:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>668731f6cd4a54b7cbeaea95414d6cec</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/BezierCurve/Editor/LineInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:43:16+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd08475b23aa548b7b9d28397d430b32</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/CameraWork.cs</fileName>
+    <timeStamp>2022-08-02T17:44:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4433564e76b1940028e7e531f171050d</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/GameManager.cs</fileName>
+    <timeStamp>2022-08-02T17:42:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4796bc1963eb34e1fa021b0a45b29df4</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/Launcher.cs</fileName>
+    <timeStamp>2022-08-02T17:43:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>df9597db7c55c44e885b8f74697d5ba0</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/LoaderAnime.cs</fileName>
+    <timeStamp>2022-08-02T17:44:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>507e5741cec8a42dc964c8e0a4b55bd6</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/PlayerAnimatorManager.cs</fileName>
+    <timeStamp>2022-08-02T17:43:06+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>98fac77b304554f238a61572f5720187</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/PlayerManager.cs</fileName>
+    <timeStamp>2022-08-02T17:43:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c22ee30e9b2b34fe38b62e48c7d79dfa</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/PlayerNameInputField.cs</fileName>
+    <timeStamp>2022-08-02T17:44:13+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dba1a179e553446f0a08606778f559f1</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/PlayerUI.cs</fileName>
+    <timeStamp>2022-08-02T17:44:30+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f65282626d77d47738989d339cb4f3ff</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/PunCockpit.cs</fileName>
+    <timeStamp>2022-08-02T17:44:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7133598fc7a8b4047b3a7b855224fcae</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Forms/ConnectToRegionUIForm.cs</fileName>
+    <timeStamp>2022-08-02T17:43:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>93560c151be5f43aaa41c69fba615970</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Forms/CreateRoomUiForm.cs</fileName>
+    <timeStamp>2022-08-02T17:43:43+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f833cfc95509a49658fedf2e4cdc3a62</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Forms/LoadLevelUIForm.cs</fileName>
+    <timeStamp>2022-08-02T17:44:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e264dd19757734dc8b3c48af67178478</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Forms/SetRoomCustomPropertyUIForm.cs</fileName>
+    <timeStamp>2022-08-02T17:44:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a37901dfac2364b018833f32816a7a16</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Forms/UserIdUiForm.cs</fileName>
+    <timeStamp>2022-08-02T17:43:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d85daee5b585047f89b7e2dde78b336b</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/InfosPanelPlaceholder.cs</fileName>
+    <timeStamp>2022-08-02T17:44:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a92eafb6e3fe4390b50c3eefbcc0504</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ScoreHelper.cs</fileName>
+    <timeStamp>2022-08-02T17:43:11+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>345270254ed7b49e89ce5662ca70a091</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/AutoSyncSceneToggle.cs</fileName>
+    <timeStamp>2022-08-02T17:42:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44aff3084c8664497aa6048e66e71a7c</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/BackgroundTimeOutField.cs</fileName>
+    <timeStamp>2022-08-02T17:42:59+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ac5f2e2d5fa8e4143ab9b97b523d3990</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/CrcCheckToggle.cs</fileName>
+    <timeStamp>2022-08-02T17:43:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>09b634200c91b4206aa56038f7647fb5</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/DocLinkButton.cs</fileName>
+    <timeStamp>2022-08-02T17:42:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74b76e97b5bf042e3b0a981241bce379</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/GameVersionField.cs</fileName>
+    <timeStamp>2022-08-02T17:43:30+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ec618017b87f49b4a2bfc6a0a0bff3d</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/LayoutElementMatchSize.cs</fileName>
+    <timeStamp>2022-08-02T17:42:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea425f69fa0f244a79a3514a6d64cab2</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/NickNameField.cs</fileName>
+    <timeStamp>2022-08-02T17:44:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>738f2e2e03bb948949a9823e60ee65d5</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/OnlineDocButton.cs</fileName>
+    <timeStamp>2022-08-02T17:43:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f6ed1c2b7c01b4b3cba625a08a991c7f</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/SendRateField.cs</fileName>
+    <timeStamp>2022-08-02T17:44:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8014b533c3a148558bd8c78ceea7a5f</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/SendRateOnSerializeField.cs</fileName>
+    <timeStamp>2022-08-02T17:44:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa1f9506beac441fa984720f2b92a92a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/CurrentRoom/CurrentRoomIsOpenToggle.cs</fileName>
+    <timeStamp>2022-08-02T17:44:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d221ad35d6c3f4da9b735a5e819ed1d3</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/CurrentRoom/CurrentRoomIsVisibleToggle.cs</fileName>
+    <timeStamp>2022-08-02T17:44:24+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d7694afd58e94f988b7b524da7b97b9</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/Generic/BoolInputField.cs</fileName>
+    <timeStamp>2022-08-02T17:42:28+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bd06272cdb8d849f0ab251f0678c9eca</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/Generic/IntInputField.cs</fileName>
+    <timeStamp>2022-08-02T17:44:08+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e02d5b184c20e43ebba343cc89e35962</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/Generic/StringInputField.cs</fileName>
+    <timeStamp>2022-08-02T17:44:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>50b3f63970a204e72b36153eb93684bf</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Autonomous UI/Generic/ToggleExpand.cs</fileName>
+    <timeStamp>2022-08-02T17:43:07+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a9eaa48793ddf4344b22871af0652c69</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Controllers/PlayerDetailsController.cs</fileName>
+    <timeStamp>2022-08-02T17:43:56+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7be18b2f537f4428b8e4cd92373a1e0</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/FriendListCell.cs</fileName>
+    <timeStamp>2022-08-02T17:44:05+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ce2efcae64ac14edebdffc99a93e401a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/FriendListView.cs</fileName>
+    <timeStamp>2022-08-02T17:44:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0170261016c824eebb6c78e47e0b9ea0</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/PlayerListCell.cs</fileName>
+    <timeStamp>2022-08-02T17:42:23+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e9df448c4ba9a4d4cb5a369b4692ceb2</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/PlayerListView.cs</fileName>
+    <timeStamp>2022-08-02T17:44:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b130ea0b2adec46ef87072879b8ac38c</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/PropertyCell.cs</fileName>
+    <timeStamp>2022-08-02T17:44:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02fae3d80c772498b829c70de76f4ba7</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/RegionListCell.cs</fileName>
+    <timeStamp>2022-08-02T17:42:23+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a77cb50929af40fb99c6452cf870935</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/RegionListView.cs</fileName>
+    <timeStamp>2022-08-02T17:43:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>347470b28bdc940a9b92930118dbc7e0</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/RoomListCell.cs</fileName>
+    <timeStamp>2022-08-02T17:42:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f5c9e34bb9f7d43a4a17eb45abbba66e</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/Lists/RoomListView.cs</fileName>
+    <timeStamp>2022-08-02T17:44:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4cc6aa808aba246ffa12d8e765f470ff</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/PropertyFields/UserIdField.cs</fileName>
+    <timeStamp>2022-08-02T17:43:05+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd20e7aa24847434aae5f175732ef601</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/AppVersionProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:21+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc582575c6a1e4ec08d8233345cc9ce5</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/BestRegionInPrefsProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e873bef6b926e45989cc835cb13ef3c2</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CloudRegionProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efbb55080baae4567af10254c267900c</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CountOfPlayersInRoomProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c8567842684394fb7a291f803abfb20e</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CountOfPlayersOnMasterProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:17+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c65e89c2d31b54d119911da56af443b6</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CountOfPlayersProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:16+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8da0abdf8617d4c76bc84fc49e21c53b</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CountOfRoomsProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:43:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b5de4d7e09db242c4aa0d47c4416630b</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomAutoCleanupProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:04+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67529d68dc8144ab1a5b19abf91fce56</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomEmptyRoomTtlProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:43:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>83b21b2f76c734bfab616bc7a3ff65c5</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomExpectedUsersProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:43:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e2e2a33f898da45eb9d44ea357e325db</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomIsOfflineProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>616aae5178f614b47911b3ada06ac650</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomIsOpenProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:43:14+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9caca36858e0a4cdb9511261f0525c72</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomIsVisibleProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:43:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ded3411e394ba4dcc82f3b6e25871839</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomMasterClientIdProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>917233b0ebdbc43ff89ee3e8d30b5d88</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomMaxPlayersProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:43:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ca44b3b830b44829ba0990f748904ae</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomNameProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:43:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>333fe1be201784f8382dd2e7a1d5c610</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomPlayerCountProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:42:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0888b956b57041c5892998316eb5a59</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomPlayerTtlProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:11+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3597ecc77cdd74c1fbd06202905bbd3f</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/CurrentRoomPropertiesListedInLobbyProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:42:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d5168ef825c3e4b74aff060ca5c07cc1</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/GameVersionProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:25+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>17aa2c6db1ece46789212ad7c5e21509</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/IsConnectedAndReadyProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:42:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>398773e8d21e14a6780ad50d653d4b9e</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/IsConnectedProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:42:52+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>edcf52eea40f24f198dce8342b53bcc4</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/OfflineModeProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2651ec6773ffe4831b1fce07d51c186a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/PingProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:42:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4be7d208de29c469d8cc6e686be2329c</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/PropertyListenerBase.cs</fileName>
+    <timeStamp>2022-08-02T17:43:03+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f467ca90418914fcd959dcc9ebb1edca</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/ServerAddressProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:44:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6aeb7bea76d39499e83ebc277ffdd7a7</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ReadOnlyProperties/ServerProperty.cs</fileName>
+    <timeStamp>2022-08-02T17:43:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>850bc9a492af040b49a0ffe115a7614b</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Scripts/ThirdParty/PunCockpitEmbed.cs</fileName>
+    <timeStamp>2022-08-02T17:43:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>07e445bad5cb64ae8ad6661ce248d844</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Scripts/DocLinks.cs</fileName>
+    <timeStamp>2022-08-02T17:42:25+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d8bc6cf2d5b0fa7468adcfed2d0454aa</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Scripts/ThirdPersonCharacter.cs</fileName>
+    <timeStamp>2022-08-02T17:44:28+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>26928efe22aad45409539f931f1190a4</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Scripts/ThirdPersonUserControl.cs</fileName>
+    <timeStamp>2022-08-02T17:42:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dfb1c264fdc576442b2f42c998bed4a2</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Culling/CullArea.cs</fileName>
+    <timeStamp>2022-08-02T17:44:32+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84db789113d4b01418c1becb128c4561</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Culling/CullingHandler.cs</fileName>
+    <timeStamp>2022-08-02T17:43:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>abadaa451a7bff0489078ed9eec61133</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Culling/Editor/CullAreaEditor.cs</fileName>
+    <timeStamp>2022-08-02T17:43:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5867a53c8db0e6745818285bb6b6e1b9</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Debugging/PhotonLagSimulationGui.cs</fileName>
+    <timeStamp>2022-08-02T17:43:10+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d06466c03d263624786afa88b52928b6</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Debugging/PhotonStatsGui.cs</fileName>
+    <timeStamp>2022-08-02T17:44:24+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e6262dd9a9b078c4e8cbd47495aa6d23</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Debugging/PointedAtGameObjectInfo.cs</fileName>
+    <timeStamp>2022-08-02T17:44:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>62880f27e95abf2418fd79e9d9d568b4</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Debugging/StatesGui.cs</fileName>
+    <timeStamp>2022-08-02T17:43:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8701526de72d8774fa165e66daf050ed</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/PhotonTeamsManager.cs</fileName>
+    <timeStamp>2022-08-02T17:43:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b28dd60f6abf16d4094cf0f642a043e2</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/PlayerNumbering.cs</fileName>
+    <timeStamp>2022-08-02T17:44:02+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6b4df3943860f1d45bfe232053a58d80</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/PunPlayerScores.cs</fileName>
+    <timeStamp>2022-08-02T17:43:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6587c8104d7524f4280d0a68dd779f27</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/PunTeams.cs</fileName>
+    <timeStamp>2022-08-02T17:43:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8cb74f08e3fc52942a0d8557772bf4dc</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/Editor/PhotonTeamsManagerInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:43:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d6590f39353bf4efdb3b14691166135f</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/Editor/PlayerNumberingInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:44:25+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7dcadaf22424c4f5d82f4d48c3b8097f</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/Editor/PunTeamsInspector.cs</fileName>
+    <timeStamp>2022-08-02T17:43:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35144820bcc25444bb8f0fd767d9423e</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonView/SmoothSyncMovement.cs</fileName>
+    <timeStamp>2022-08-02T17:42:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5c1b84a427010e0469ce0df07ab64dbc</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/ConnectAndJoinRandom.cs</fileName>
+    <timeStamp>2022-08-02T17:43:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99b4daedc5e674a429acdf1e77da6a55</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/MoveByKeys.cs</fileName>
+    <timeStamp>2022-08-02T17:43:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9dab7328ba500e944a99d62065fba6c0</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/OnClickDestroy.cs</fileName>
+    <timeStamp>2022-08-02T17:43:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b79a9b62449de940a073364858c3f9b</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/OnClickInstantiate.cs</fileName>
+    <timeStamp>2022-08-02T17:43:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2cd0ed7420882554fa146aab6aeb2e80</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/OnClickRpc.cs</fileName>
+    <timeStamp>2022-08-02T17:42:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1fbabafd914a48f4eb6108d8d8f43d29</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/OnEscapeQuit.cs</fileName>
+    <timeStamp>2022-08-02T17:42:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ed3b5dcba7bf9114cb13fc59e0a71f55</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/OnJoinedInstantiate.cs</fileName>
+    <timeStamp>2022-08-02T17:44:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f8d56a54ae062da4a87516fb994f4e30</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/OnStartDelete.cs</fileName>
+    <timeStamp>2022-08-02T17:44:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ffc398cf76e6d458caf303b5fceea504</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/Room/CountdownTimer.cs</fileName>
+    <timeStamp>2022-08-02T17:44:53+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a1b3bda60e9e804f87fd1e5d20a885a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/TurnBased/PunTurnManager.cs</fileName>
+    <timeStamp>2022-08-02T17:42:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e0e8b381f2c05442ca5c01638958156a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/UI/ButtonInsideScrollList.cs</fileName>
+    <timeStamp>2022-08-02T17:44:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68187d3cf4c8746aaa64930f1a766a38</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/UI/EventSystemSpawner.cs</fileName>
+    <timeStamp>2022-08-02T17:43:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>195602a009c4b42b6a62e0bdf601b70d</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/UI/GraphicToggleIsOnTransition.cs</fileName>
+    <timeStamp>2022-08-02T17:42:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ff93154db96e843fbbc5e816ec0d2b48</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/UI/OnPointerOverTooltip.cs</fileName>
+    <timeStamp>2022-08-02T17:44:53+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c94485733838d40fda441b2c0fbbec10</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/UI/TabViewManager.cs</fileName>
+    <timeStamp>2022-08-02T17:44:19+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d234639538a34b8d9e3cc6362a7afd0</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/UI/TextButtonTransition.cs</fileName>
+    <timeStamp>2022-08-02T17:43:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ec99d371d7c8e44899ce4b834dfd4d6a</guid>
+    <fileName>Assets/Photon/PhotonUnityNetworking/UtilityScripts/UI/TextToggleIsOnTransition.cs</fileName>
+    <timeStamp>2022-08-02T17:44:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>97194776332f06c47a7fb5d5d5689e8b</guid>
+    <fileName>Assets/Scripts/Data/StaticDataManager.cs</fileName>
+    <timeStamp>2022-09-26T14:05:59.6239133+02:00</timeStamp>
+    <typeFullName>
+      <string>StaticDataManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4532de15850a7584c8fa8cfc340ea159</guid>
+    <fileName>Assets/Scripts/Game/DestroyAfter.cs</fileName>
+    <timeStamp>2019-06-14T02:34:05.0144077+02:00</timeStamp>
+    <typeFullName>
+      <string>DestroyAfter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f140f98d35dbd2041bd7511a5fd97b35</guid>
+    <fileName>Assets/Scripts/Game/DragonBoss.cs</fileName>
+    <timeStamp>2022-09-29T21:54:35.8893492+02:00</timeStamp>
+    <typeFullName>
+      <string>DragonBoss</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8adcb55de222eb24e8d228f9e9531707</guid>
+    <fileName>Assets/Scripts/Game/Level_SceneManager.cs</fileName>
+    <timeStamp>2022-09-29T22:35:48.3494802+02:00</timeStamp>
+    <typeFullName>
+      <string>Level_SceneManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96deb2411201e38478c14ce8dc1f0f18</guid>
+    <fileName>Assets/Scripts/Game/MagicStaff.cs</fileName>
+    <timeStamp>2022-09-28T23:58:17.516352+02:00</timeStamp>
+    <typeFullName>
+      <string>MagicStaff</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a051fd391a756d84faaac7847d31e487</guid>
+    <fileName>Assets/Scripts/Game/NexusBook.cs</fileName>
+    <timeStamp>2022-09-29T00:23:55.5805576+02:00</timeStamp>
+    <typeFullName>
+      <string>NexusBook</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>829ef33b127df244787e4e4aeb8f2252</guid>
+    <fileName>Assets/Scripts/Game/PlayerMovement.cs</fileName>
+    <timeStamp>2022-09-29T22:31:00.3211961+02:00</timeStamp>
+    <typeFullName>
+      <string>PlayerMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e71a87365f324234ab80b38fe805bfc7</guid>
+    <fileName>Assets/Scripts/Game/Projectile.cs</fileName>
+    <timeStamp>2022-09-29T03:52:33.301094+02:00</timeStamp>
+    <typeFullName>
+      <string>Projectile</string>
+      <string>Projectile+MagicType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6cbe999eac6f80d4a8f7971e50e57e9f</guid>
+    <fileName>Assets/Scripts/Game/Screenshake.cs</fileName>
+    <timeStamp>2022-09-29T22:23:22.6618531+02:00</timeStamp>
+    <typeFullName>
+      <string>Screenshake</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>538cb214e8986264c864993619aa99c2</guid>
+    <fileName>Assets/Scripts/Lobby/Lobby_SceneManager.cs</fileName>
+    <timeStamp>2022-09-29T01:17:35.0354589+02:00</timeStamp>
+    <typeFullName>
+      <string>Lobby_SceneManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>401d023d6df03ec459ad4459ab5fe6c3</guid>
+    <fileName>Assets/Scripts/Lobby/PoolManager.cs</fileName>
+    <timeStamp>2022-09-29T20:32:48.5399629+02:00</timeStamp>
+    <typeFullName>
+      <string>PoolManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>16daed2daf8433540a5d0a59c2d5a73f</guid>
+    <fileName>Assets/Scripts/Lobby/Spinner.cs</fileName>
+    <timeStamp>2022-09-24T23:42:53.4438438+02:00</timeStamp>
+    <typeFullName>
+      <string>Spinner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1476117265dc3b54a9ec95b6ce8d8489</guid>
+    <fileName>Assets/SineVFX/TopDownEffects/Resources/Scripts/PrefabSpawner.cs</fileName>
+    <timeStamp>2021-02-25T23:20:03+02:00</timeStamp>
+    <typeFullName>
+      <string>PrefabSpawner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e136ce0631258574e9a9e987e70687b2</guid>
+    <fileName>Assets/SineVFX/TopDownEffects/Resources/Scripts/RampGeneratorTDE.cs</fileName>
+    <timeStamp>2021-01-02T03:39:00+02:00</timeStamp>
+    <typeFullName>
+      <string>RampGeneratorTDE</string>
+      <string>RampGeneratorTDE+Mode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26ef63f9c7d351e4bae9e4866f4aab69</guid>
+    <fileName>Assets/SineVFX/TopDownEffects/Resources/Scripts/SineCameraControllerTopDownEffects.cs</fileName>
+    <timeStamp>2021-02-25T23:40:26+02:00</timeStamp>
+    <typeFullName>
+      <string>SineCameraControllerTopDownEffects</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>54bfd3bd168afc040b6926a09e11b437</guid>
+    <fileName>Assets/SineVFX/TopDownEffects/Resources/Scripts/SineUIControllerTopDownEffects.cs</fileName>
+    <timeStamp>2021-01-02T22:22:58+02:00</timeStamp>
+    <typeFullName>
+      <string>SineUIControllerTopDownEffects</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f36164ad0d67cab49bf0a574c133cb8b</guid>
+    <fileName>Assets/SineVFX/TopDownEffects/Resources/Scripts/Editor/CustomRampGeneratorEditor.cs</fileName>
+    <timeStamp>2021-01-02T03:40:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bb549116749324c4f9c85b7ccc799629</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/Resizer.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>TextureScale</string>
+      <string>TextureScale+ThreadData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a3e00e884f9107a44813027cf44fd811</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/SketchfabApi.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.Utils</string>
+      <string>Sketchfab.SketchfabAPI</string>
+      <string>Sketchfab.SketchfabRequest</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8532580f66d30f4ea14deadf66a6ef2</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/SketchfabExporter.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SketchfabExporter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c746b0094f8b14040b9eda8f3d84bb28</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/SketchfabImporter.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SketchfabImporter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b284054d7da1d34ebc682ead5f6458c</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/SketchfabImporterWindow.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SketchfabImporterWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cca29433d29f6464abb26b1aa3183b29</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/SketchfabLogger.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SketchfabProfile</string>
+      <string>Sketchfab.SketchfabLogger</string>
+      <string>Sketchfab.SketchfabLogger+LOGIN_STEP</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7772f65ab4914e419e1c2efa7539d8b</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/SketchfabPlugin.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SketchfabPlugin</string>
+      <string>Sketchfab.SketchfabPlugin+Urls</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fce6930ddc02ac341bac49750cd6e240</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/SketchfabUI.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SketchfabUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d7eb441d9fb002a488dc11c2a74983f5</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserManager.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SORT_BY</string>
+      <string>Sketchfab.SEARCH_ENDPOINT</string>
+      <string>Sketchfab.SketchfabModel</string>
+      <string>Sketchfab.SketchfabBrowserManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58d9700938d11814c9905a03f7251519</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserWindow.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SketchfabBrowser</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0937ab964c9d395469abadebf26865d7</guid>
+    <fileName>Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabModelWindow.cs</fileName>
+    <timeStamp>2021-09-09T09:32:13+02:00</timeStamp>
+    <typeFullName>
+      <string>Sketchfab.SketchfabModelWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
