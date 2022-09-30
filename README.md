@@ -17,6 +17,6 @@
 - Try to target the Online Player and throw your Magic at him from distance (Use the Drawn Yellow-Arc to hit the Enemy).
 
 <h2> Youtube preview : </h2>
-<video src="https://www.youtube.com/watch?v=oEryVPjzdqk" controls>
-  Your browser does not support the video tag.
-</video>
+   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/zIFMyBkYwqg" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
