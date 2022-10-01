@@ -208,21 +208,19 @@ public class PlayerMovement : MonoBehaviourPun
         controller.Move(move * playerSpeed * Time.deltaTime);
 
         //Get the Screen positions of the object
-        CursorFollow();
+        photonView.RPC(nameof(CursorFollow), RpcTarget.AllBuffered, Camera.main.ScreenToViewportPoint(Input.mousePosition), Camera.main.WorldToViewportPoint(transform.position));
+
 
         // Figuring the Absolute value of the X , Z
         var momentum = Mathf.Abs(x) + Mathf.Abs(z);
         anim.SetFloat("speed", momentum);
     }
 
-    void CursorFollow()
+    [PunRPC]
+    void CursorFollow(Vector3 worldPosition, Vector3 playerPosition)
     {
-        if (!photonView.IsMine)
-            return;
-
-        Vector2 positionOnScreen = Camera.main.WorldToViewportPoint(transform.position);
-        Vector2 mouseOnScreen = (Vector2)Camera.main.ScreenToViewportPoint(Input.mousePosition);
-        float angle = AngleBetweenTwoPoints(positionOnScreen, mouseOnScreen);
+        // Best practice : We could've left that done localy, and the Rotations will be sunced, however this is best practice to send the data from each client to the other clients (Based on local info of the Info owner such as => Mouse Position & Player's position )
+        float angle = AngleBetweenTwoPoints((Vector2)playerPosition, (Vector2)worldPosition);
         transform.rotation = Quaternion.Euler(new Vector3(0f, angle, 0f));
     }
 
@@ -273,10 +271,11 @@ public class PlayerMovement : MonoBehaviourPun
                 _projectile.velocity = firePos.up * airFlow;
             }
         }
-        catch {
+        catch
+        {
             Debug.Log("RPC Spell Usage Detected !");
         }
-        
+
     }
 
     void DrawTrajectory()
@@ -313,7 +312,7 @@ public class PlayerMovement : MonoBehaviourPun
             return;
 
         // Check if we still waiting the character to be executed.
-        if(!isExecuted)
+        if (!isExecuted)
         {
             isExecuted = true;
             Execution_SitOnFire_DragonBoss();

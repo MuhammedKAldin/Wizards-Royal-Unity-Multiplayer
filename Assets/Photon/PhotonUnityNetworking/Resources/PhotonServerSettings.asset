@@ -54,6 +54,7 @@ MonoBehaviour:
   - Rpc_TrajectoryAngle
   - Rpc_TrajectoryPower
   - TakeDamage
+  - CursorFollow
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 1
