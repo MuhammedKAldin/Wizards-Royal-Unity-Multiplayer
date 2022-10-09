@@ -98,6 +98,10 @@ public class PlayerMovement : MonoBehaviourPun
     [PunRPC]
     public void TakeDamage()
     {
+        // Damage Value is 10
+        health -= 10;
+        
+        // Check health value, to determine if player is alive or not
         if (health < 0)
         {
             if (gameObject.name.Contains("Red"))
@@ -112,8 +116,6 @@ public class PlayerMovement : MonoBehaviourPun
             return;
         }
 
-        // Damage Value is 10
-        health -= 10;
         sceneManager.Update_Objectives_Score();
     }
 
